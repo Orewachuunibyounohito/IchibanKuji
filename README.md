@@ -1,8 +1,10 @@
 # IchibanKuji 一番賞
 
-[Play](https://orewachuuni.itch.io/ichibankuji) by itch.io
+開始玩: [itch.io](https://orewachuuni.itch.io/ichibankuji)
 
-[Devlog](https://chalk-wedge-e02.notion.site/Ichibankuji-1119f6c2dc7980b98658f0d0a33addea) by Notion
+試玩影片: [Youtube](https://youtu.be/w0umLsspQZQ)
+
+Devlog: [Notion](https://chalk-wedge-e02.notion.site/Ichibankuji-1119f6c2dc7980b98658f0d0a33addea)
 
 ## 備註
 
